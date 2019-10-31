@@ -1,0 +1,43 @@
+
+body {
+margin: 10;
+
+}
+
+.tentext{
+
+	height: auto;
+	max-width: 1000px;
+	margin:  0 auto;
+
+}
+
+#seventh {
+	border: 5px solid blue;
+    outline: 5px solid red;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.secfoursix {
+	color: white;
+	background: black;
+	color: white;
+	font-size: 27px;
+	text-decoration: underline;
+	font-weight: bold;
+    font-style: italic;
+}
+
+
+.other {
+	font-size: 22px;
+	color: orange;
+	border-right: 3px dashed red;
+    
+}
+
+footer{
+	text-align: center;
+}
